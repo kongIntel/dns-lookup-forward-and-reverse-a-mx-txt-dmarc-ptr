@@ -1,0 +1,7 @@
+dnsresolver==2.0.0
+logging==0.5.1.2
+
+You can copy this code into the respective files in your local project structure. If you prefer to run this yourself, make sure to install the necessary Python dependencies by running:
+bashpip install -r requirements.txt
+
+Then, you can execute the runner.py script:
