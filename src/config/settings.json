@@ -1,0 +1,4 @@
+{
+    "defaultRecordTypes": ["A", "MX", "TXT", "CNAME", "NS", "SOA"],
+    "reverseLookup": false
+}
